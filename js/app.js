@@ -4,4 +4,6 @@ document.write(`<h1>Fran was here</h1>`)
 document.write(`<p>Cristian is here</p>`)
 //otro mensaje
 document.write(`<h2>Santi was here</h2>`)
+//Bruno Mensaje
+document.write(`<h2>Bruno was here!</h2>`)
 document.close()
