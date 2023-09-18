@@ -3,7 +3,7 @@ document.write(`<h1>Fran was here</h1>`);
 //Deja tu mensaje aca
 document.write(`<h3>hola mundo</h3>`);
 document.write(`<p>Cristian is here</p>`);
-document.write(`<h2>¡Acá León!</h2>`);
+document.write(`<h2>¡León estuvo por acá!</h2>`);
 
 //otro mensaje
 
